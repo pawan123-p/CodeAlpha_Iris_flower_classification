@@ -24,4 +24,5 @@ The target variable is the **Species** of the flower.
    ```bash
   https://github.com/pawan123-p/CodeAlpha_Iris_flower_classification/tree/main
   ### Visualizing the Results
- ![confusion matrix](Screenshot 2026-02-19 211543.png)
+ ![confusion matrix](<img width="995" height="787" alt="image" src="https://github.com/user-attachments/assets/35edb138-1a0e-4112-bf3d-56777545ac34" />
+)
