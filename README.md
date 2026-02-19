@@ -23,3 +23,6 @@ The target variable is the **Species** of the flower.
 1. Clone this repository to your local machine:
    ```bash
   https://github.com/pawan123-p/CodeAlpha_Iris_flower_classification/tree/main
+  ### Visualizing the Results
+![Confusion Matrix](<img width="995" height="787" alt="Screenshot 2026-02-19 211543" src="https://github.com/user-attachments/assets/b913b598-43e0-4c9c-b633-2b9d6f499fa2" />
+)
